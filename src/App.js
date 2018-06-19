@@ -50,7 +50,7 @@ class App extends Component {
 					<section id="one" class="wrapper style2 spotlights">
 				
 						<section>
-							<a href="http://198.211.107.160/#/" class="image"><img src="images/IMG_3818.PNG" alt="" data-position="top center" /></a>
+							<a href="http://198.211.107.160/#/" class="image"><img src="/IMG_3818.PNG" alt="" data-position="top center" /></a>
 							<div class="content">
 								<div class="inner">
 									<h2>Live Life Headphones</h2>
