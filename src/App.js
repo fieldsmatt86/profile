@@ -12,6 +12,8 @@ class App extends Component {
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		{/* <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]--> */}
 		<link rel="stylesheet" href="assets/css/main.css" />
+            <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.11/css/all.css" integrity="sha384-p2jx59pefphTFIpeqCcISO9MdVfIm4pNnsL08A6v5vaQc4owkQqxMV8kg4Yvhaw/" crossorigin="anonymous"/>
+
 		{/* <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]--> */}
 	</head>
@@ -50,7 +52,7 @@ class App extends Component {
 					<section id="one" class="wrapper style2 spotlights">
 				
 						<section>
-							<a href="http://198.211.107.160/#/" class="image"><img src="/IMG_3818.PNG" alt="" data-position="top center" /></a>
+							<a href="http://198.211.107.160/#/" class="image"><img src="IMG_3818.PNG" alt="" data-position="top center" /></a>
 							<div class="content">
 								<div class="inner">
 									<h2>Live Life Headphones</h2>
@@ -71,19 +73,19 @@ class App extends Component {
 							
 						
 								<section>
-									<span class="icon major fa-code"></span>
+									<span class="icon major fa-chain"></span>
 									<h3>HTML</h3>
 								</section>
 								<section>
-									<span class="icon major fa-lock"></span>
+									<span class="icon major fa-chain"></span>
 									<h3>CSS</h3>
 								</section>
 								<section>
-									<span class="icon major fa-cog"></span>
+									<span class="icon major fa-chain"></span>
 									<h3>JAVASCRIPT</h3>
 								</section>
 								<section>
-									<span class="icon major fa-desktop"></span>
+									<span class="icon major fa-chain"></span>
 									<h3>REACT</h3>
 								</section>
 								<section>
@@ -125,8 +127,8 @@ class App extends Component {
 										<li>
 											<h3>Social</h3>
 											<ul class="icons">
-												<li><a href="https://github.com/fieldsmatt86" class="fa-github"><span class="label">GitHub</span></a></li>
-												<li><a href="https://www.linkedin.com/in/matthewfields11/" class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
+												<li><a href="https://github.com/fieldsmatt86" class=""><span class="fab fa-github"></span></a></li>
+												<li><a href="https://www.linkedin.com/in/matthewfields11/" class=""><span class="fab fa-linkedin"></span></a></li>
 											</ul>
 										</li>
 									</ul>
@@ -141,7 +143,7 @@ class App extends Component {
 			<footer id="footer" class="wrapper style1-alt">
 				<div class="inner">
 					<ul class="menu">
-						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					
 					</ul>
 				</div>
 			</footer>

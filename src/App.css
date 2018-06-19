@@ -1,4 +1,3 @@
-/* @import url(font-awesome.min.css); */
 
 /*
 	Hyperspace by HTML5 UP
@@ -2593,6 +2592,8 @@
 		border: 0;
 		display: inline-block;
 		position: relative;
+		  background-image: url("../src/IMG_3818.PNG");
+
 	}
 
 		.image img {
@@ -3269,11 +3270,11 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #8ac6d0;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #8ac6d0;
 		}
 
 		.wrapper.fullscreen {
@@ -3775,10 +3776,10 @@
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -moz-linear-gradient(to right, #5e42a6, #8ac6d0);
+				background-image: -webkit-linear-gradient(to right, #5e42a6, #8ac6d0);
+				background-image: -ms-linear-gradient(to right, #5e42a6, #8ac6d0);
+				background-image: linear-gradient(to right, #5e42a6, #8ac6d0);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3867,7 +3868,7 @@
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #b74e91;
+							background-color: #8ac6d0;
 						}
 
 		}
